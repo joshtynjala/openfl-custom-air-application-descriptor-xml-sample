@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Custom OpenFL Adobe AIR application.xml" package="com.feathersui.CustomAirAppXml" version="1.0.0" company="Bowler Hat LLC" />
+	<app main="SampleMain" file="CustomAirAppXml" />
+
+	<window allow-high-dpi="true"/>
+	<window fps="60"/>
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<!--
+		this directory contains a customized application.xml for this project.
+		the original templates included with OpenFL and Lime can be found here:
+		https://github.com/openfl/openfl/tree/develop/assets/templates
+		https://github.com/openfl/lime/tree/develop/templates
+	-->
+	<template path="custom-templates"/>
+</project>

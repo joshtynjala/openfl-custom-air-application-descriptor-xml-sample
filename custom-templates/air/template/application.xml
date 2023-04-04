@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/::AIR_SDK_VERSION::">
+	<id>::APP_PACKAGE::</id>
+	<versionLabel>::APP_VERSION::</versionLabel>
+	<versionNumber>::APP_BUILD_NUMBER_SPLIT::</versionNumber>
+	<filename>::APP_FILE::</filename>
+	<name>::APP_TITLE::</name>
+	<initialWindow>
+		<content>::APP_FILE::.swf</content>
+		<visible>true</visible>
+	</initialWindow>
+</application>
