@@ -15,3 +15,5 @@ To confirm that the custom [_air/template/application.xml_](https://github.com/j
 ```sh
 openfl build air
 ```
+
+Sample created by [Josh Tynjala](https://github.com/sponsors/joshtynjala), the author of [Feathers UI](https://feathersui.com/) and core contributor to [OpenFL](https://openfl.org/).
